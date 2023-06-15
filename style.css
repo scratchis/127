@@ -1,0 +1,27 @@
+body{
+    background: rgb(0,255,201);
+    background: linear-gradient(90deg, rgba(0,255,201,1) 0%, rgba(66,172,189,1) 25%, rgba(55,118,161,1) 50%, rgba(84,25,212,1) 75%, rgba(192,0,255,1) 100%);
+}
+#score{
+    font-size: 20;
+    margin-left: 200px;
+    font: white;
+}
+#timer{
+    font-size: 20;
+    float: right;
+    margin-right: 100px;
+    font: white;
+}
+#sketch_drawn{
+    font-size: 20;
+    font: white;
+}
+#confidence{
+    font-size: 20;
+    font: white;
+}
+#sketch_to_be_drawn{
+    font-size: 20;
+    font: white;
+}
